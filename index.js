@@ -2,4 +2,4 @@ function sum(a, b){
     var result = a + b;
     return result;
 }
-console.log("5 + 5 = ", sum(5, 5));
+console.log("1 + 1 = ", sum(1, 1));
